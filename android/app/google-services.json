@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456114625503",
+    "project_id": "carrental-d8f08",
+    "storage_bucket": "carrental-d8f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456114625503:android:4198df8e7547723a91026a",
+        "android_client_info": {
+          "package_name": "carRental.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbDIbO0nvLmo5lFqdvT7mqPBlce5pAro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
